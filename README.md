@@ -7,7 +7,7 @@
 ### Chapter 01. 기본 자료구조
 
 #### [01] [기초 문제풀이](/Notes/%5B01%5D%20CHAPTER%2001.%20기본%20자료구조%20-%20기초%20문제풀이.pdf)
-* [음계](https://www.acmicpc.net/problem/2920)
+* [음계](https://www.acmicpc.net/problem/2920): ([Python 답안](/Solutions/%5B01%5D_1.py))
 * [블랙잭](https://www.acmicpc.net/problem/2798)
 
 #### [02] 핵심 유형 문제풀이
