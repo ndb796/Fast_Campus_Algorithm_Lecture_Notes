@@ -6,7 +6,7 @@
 
 ### Chapter 01. 기본 자료구조
 
-#### [01] 기초 문제풀이 (2문제)
+#### [01] 기초 문제풀이
 * [음계](https://www.acmicpc.net/problem/2920)
 * [블랙잭](https://www.acmicpc.net/problem/2798)
 
