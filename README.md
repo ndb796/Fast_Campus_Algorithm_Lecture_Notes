@@ -10,7 +10,7 @@
 * [음계](https://www.acmicpc.net/problem/2920)
 * [블랙잭](https://www.acmicpc.net/problem/2798)
 
-#### [02] 핵심 유형 문제풀이 (3문제)
+#### [02] 핵심 유형 문제풀이
 * [스택 수열](https://www.acmicpc.net/problem/1874)
 * [프린터 큐](https://www.acmicpc.net/problem/1966)
 * [키로거](https://www.acmicpc.net/problem/5397)
