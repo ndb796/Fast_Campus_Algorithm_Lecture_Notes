@@ -2,11 +2,11 @@
 
 using namespace std;
 
+int data[8];
+bool ascending = true;
+bool descending = true;
+
 int main() {
-	int data[8];
-	bool ascending = true;
-	bool descending = true;
-	
 	for (int i = 0; i < 8; i++) {
 		cin >> data[i];
 	}
