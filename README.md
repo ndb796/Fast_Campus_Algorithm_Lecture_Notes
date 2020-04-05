@@ -36,17 +36,17 @@
 * [소트인사이드](https://www.acmicpc.net/problem/1427): ([Python 답안](/Solutions/%5B04%5D_2.py) / [C++ 답안](/Solutions/%5B04%5D_2.cpp) / [Java 답안](/Solutions/%5B04%5D_2.java))
 
 #### [05] [핵심 유형 문제풀이](/Notes/%5B05%5D%20CHAPTER%2003.%20기본%20정렬%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [나이순 정렬](https://www.acmicpc.net/problem/10814): ([Python 답안](/Solutions/%5B05%5D_1.py))
-* [좌표 정렬하기](https://www.acmicpc.net/problem/11650): ([Python 답안](/Solutions/%5B05%5D_2.py))
-* [수 정렬하기 3](https://www.acmicpc.net/problem/10989): ([Python 답안](/Solutions/%5B05%5D_3.py))
+* [나이순 정렬](https://www.acmicpc.net/problem/10814): ([Python 답안](/Solutions/%5B05%5D_1.py) / [C++ 답안](/Solutions/%5B05%5D_1.cpp) / [Java 답안](/Solutions/%5B05%5D_1.java))
+* [좌표 정렬하기](https://www.acmicpc.net/problem/11650): ([Python 답안](/Solutions/%5B05%5D_2.py) / [C++ 답안](/Solutions/%5B05%5D_2.cpp) / [Java 답안](/Solutions/%5B05%5D_2.java))
+* [수 정렬하기 3](https://www.acmicpc.net/problem/10989): ([Python 답안](/Solutions/%5B05%5D_3.py) / [C++ 답안](/Solutions/%5B05%5D_3.cpp) / [Java 답안](/Solutions/%5B05%5D_3.java))
 
 ### Chapter 04. 재귀 호출
 
 > 기본적인 재귀 함수 구현을 활용한 문제풀이
 
 #### [06] [핵심 유형 문제풀이](/Notes/%5B06%5D%20CHAPTER%2004.%20재귀%20호출%20-%20핵심%20유형%20문제풀이.pdf)
-* [피보나치 수](https://www.acmicpc.net/problem/2747): ([Python 답안](/Solutions/%5B06%5D_1.py))
-* [Z](https://www.acmicpc.net/problem/1074): ([Python 답안](/Solutions/%5B06%5D_2.py))
+* [피보나치 수](https://www.acmicpc.net/problem/2747): ([Python 답안](/Solutions/%5B06%5D_1.py) / [C++ 답안](/Solutions/%5B06%5D_1.cpp) / [Java 답안](/Solutions/%5B06%5D_1.java))
+* [Z](https://www.acmicpc.net/problem/1074): ([Python 답안](/Solutions/%5B06%5D_2.py) / [C++ 답안](/Solutions/%5B06%5D_2.cpp) / [Java 답안](/Solutions/%5B06%5D_2.java))
 * [0 만들기](https://www.acmicpc.net/problem/7490): ([Python 답안](/Solutions/%5B06%5D_3.py))
 
 ### Chapter 05. 고급 정렬 알고리즘
@@ -54,8 +54,8 @@
 > 병합 정렬을 활용한 문제풀이
 
 #### [07] [핵심 유형 문제풀이](/Notes/%5B07%5D%20CHAPTER%2005.%20고급%20정렬%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [수 정렬하기 2](https://www.acmicpc.net/problem/2751): ([Python 답안](/Solutions/%5B07%5D_1.py))
-* [K 번째 수](https://www.acmicpc.net/problem/11004): ([Python 답안](/Solutions/%5B07%5D_2.py))
+* [수 정렬하기 2](https://www.acmicpc.net/problem/2751): ([Python 답안](/Solutions/%5B07%5D_1.py) / [C++ 답안](/Solutions/%5B07%5D_1.cpp) / [Java 답안](/Solutions/%5B07%5D_1.java))
+* [K 번째 수](https://www.acmicpc.net/problem/11004): ([Python 답안](/Solutions/%5B07%5D_2.py) / [C++ 답안](/Solutions/%5B07%5D_2.cpp) / [Java 답안](/Solutions/%5B07%5D_2.java))
 
 ### Chapter 06. 기본 탐색 알고리즘
 
