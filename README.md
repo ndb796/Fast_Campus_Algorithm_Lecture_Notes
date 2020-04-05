@@ -1,7 +1,7 @@
 ## Fast Campus Algorithm Lecture Notes
 
 * 패스트 캠퍼스(Fast Campus) 알고리즘 강의용 저장소입니다.
-* 본 강의는 Python 3을 활용한 강의이지만, 대부분의 문제들에 대하여 C++11, Java 소스코드를 제공합니다.
+* 본 강의는 Python 3을 활용한 강의이지만, 대부분의 문제들에 대하여 C++11, Java 소스코드를 추가적으로 제공합니다.
 
 ## 강의 목차(Lecture Contents)
 
@@ -10,13 +10,13 @@
 > 리스트, 큐, 스택을 활용한 문제풀이
 
 #### [01] [기초 문제풀이](/Notes/%5B01%5D%20CHAPTER%2001.%20기본%20자료구조%20-%20기초%20문제풀이.pdf)
-* [음계](https://www.acmicpc.net/problem/2920): ([Python 답안](/Solutions/%5B01%5D_1.py) / [Java 답안](/Solutions/%5B01%5D_1.java))
-* [블랙잭](https://www.acmicpc.net/problem/2798): ([Python 답안](/Solutions/%5B01%5D_2.py) / [Java 답안](/Solutions/%5B01%5D_2.java))
+* [음계](https://www.acmicpc.net/problem/2920): ([Python 답안](/Solutions/%5B01%5D_1.py) / [C++ 답안](/Solutions/%5B01%5D_1.cpp) / [Java 답안](/Solutions/%5B01%5D_1.java))
+* [블랙잭](https://www.acmicpc.net/problem/2798): ([Python 답안](/Solutions/%5B01%5D_2.py) / [C++ 답안](/Solutions/%5B01%5D_2.cpp) / [Java 답안](/Solutions/%5B01%5D_2.java))
 
 #### [02] [핵심 유형 문제풀이](/Notes/%5B02%5D%20CHAPTER%2001.%20기본%20자료구조%20-%20핵심%20유형%20문제풀이.pdf)
-* [스택 수열](https://www.acmicpc.net/problem/1874): ([Python 답안](/Solutions/%5B02%5D_1.py) / [Java 답안](/Solutions/%5B02%5D_1.java))
-* [프린터 큐](https://www.acmicpc.net/problem/1966): ([Python 답안](/Solutions/%5B02%5D_2.py) / [Java 답안](/Solutions/%5B02%5D_2.java))
-* [키로거](https://www.acmicpc.net/problem/5397): ([Python 답안](/Solutions/%5B02%5D_3.py) / [Java 답안](/Solutions/%5B02%5D_3.java))
+* [스택 수열](https://www.acmicpc.net/problem/1874): ([Python 답안](/Solutions/%5B02%5D_1.py) / [C++ 답안](/Solutions/%5B02%5D_1.cpp) / [Java 답안](/Solutions/%5B02%5D_1.java))
+* [프린터 큐](https://www.acmicpc.net/problem/1966): ([Python 답안](/Solutions/%5B02%5D_2.py) / [C++ 답안](/Solutions/%5B02%5D_2.cpp) / [Java 답안](/Solutions/%5B02%5D_2.java))
+* [키로거](https://www.acmicpc.net/problem/5397): ([Python 답안](/Solutions/%5B02%5D_3.py) / [C++ 답안](/Solutions/%5B02%5D_3.cpp) / [Java 답안](/Solutions/%5B02%5D_3.java))
 
 ### Chapter 02. 고급 자료구조
 
@@ -24,16 +24,16 @@
 
 #### [03] [핵심 유형 문제풀이](/Notes/%5B03%5D%20CHAPTER%2002.%20고급%20자료구조%20-%20핵심%20유형%20문제풀이.pdf)
 * [SHA-256](https://www.acmicpc.net/problem/10930): ([Python 답안](/Solutions/%5B03%5D_1.py) / [Java 답안](/Solutions/%5B03%5D_1.java))
-* [수 찾기](https://www.acmicpc.net/problem/1920): ([Python 답안](/Solutions/%5B03%5D_2.py) / [Java 답안](/Solutions/%5B03%5D_2.java))
-* [친구 네트워크](https://www.acmicpc.net/problem/4195): ([Python 답안](/Solutions/%5B03%5D_3.py) / [Java 답안](/Solutions/%5B03%5D_3.java))
+* [수 찾기](https://www.acmicpc.net/problem/1920): ([Python 답안](/Solutions/%5B03%5D_2.py) / [C++ 답안](/Solutions/%5B03%5D_2.cpp) / [Java 답안](/Solutions/%5B03%5D_2.java))
+* [친구 네트워크](https://www.acmicpc.net/problem/4195): ([Python 답안](/Solutions/%5B03%5D_3.py) / [C++ 답안](/Solutions/%5B03%5D_3.cpp))
 
 ### Chapter 03. 기본 정렬 알고리즘
 
 > 정렬 라이브러리, 키(Key) 기반 정렬, 계수 정렬을 활용한 문제풀이
 
 #### [04] [기초 문제풀이](/Notes/%5B04%5D%20CHAPTER%2003.%20기본%20정렬%20알고리즘%20-%20기초%20문제풀이.pdf)
-* [수 정렬하기](https://www.acmicpc.net/problem/2750): ([Python 답안](/Solutions/%5B04%5D_1.py) / [Java 답안](/Solutions/%5B04%5D_1.java))
-* [소트인사이드](https://www.acmicpc.net/problem/1427): ([Python 답안](/Solutions/%5B04%5D_2.py) / [Java 답안](/Solutions/%5B04%5D_2.java))
+* [수 정렬하기](https://www.acmicpc.net/problem/2750): ([Python 답안](/Solutions/%5B04%5D_1.py) / [C++ 답안](/Solutions/%5B04%5D_1.cpp) / [Java 답안](/Solutions/%5B04%5D_1.java))
+* [소트인사이드](https://www.acmicpc.net/problem/1427): ([Python 답안](/Solutions/%5B04%5D_2.py) / [C++ 답안](/Solutions/%5B04%5D_2.cpp) / [Java 답안](/Solutions/%5B04%5D_2.java))
 
 #### [05] [핵심 유형 문제풀이](/Notes/%5B05%5D%20CHAPTER%2003.%20기본%20정렬%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
 * [나이순 정렬](https://www.acmicpc.net/problem/10814): ([Python 답안](/Solutions/%5B05%5D_1.py))
