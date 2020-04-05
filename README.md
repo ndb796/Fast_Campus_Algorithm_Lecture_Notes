@@ -62,14 +62,14 @@
 > 순차 탐색, 이진 탐색을 활용한 문제풀이
 
 #### [08] [기초 문제풀이](/Notes/%5B08%5D%20CHAPTER%2006.%20기본%20탐색%20알고리즘%20-%20기초%20문제풀이.pdf)
-* [문서 검색](https://www.acmicpc.net/problem/1543): ([Python 답안](/Solutions/%5B08%5D_1.py))
-* [새](https://www.acmicpc.net/problem/1568): ([Python 답안](/Solutions/%5B08%5D_2.py))
-* [베스트셀러](https://www.acmicpc.net/problem/1302): ([Python 답안](/Solutions/%5B08%5D_3.py))
-* [트로피 진열](https://www.acmicpc.net/problem/1668): ([Python 답안](/Solutions/%5B08%5D_4.py))
-* [성 지키기](https://www.acmicpc.net/problem/1236): ([Python 답안](/Solutions/%5B08%5D_5.py))
+* [문서 검색](https://www.acmicpc.net/problem/1543): ([Python 답안](/Solutions/%5B08%5D_1.py) / [C++ 답안](/Solutions/%5B08%5D_1.cpp) / [Java 답안](/Solutions/%5B08%5D_1.java))
+* [새](https://www.acmicpc.net/problem/1568): ([Python 답안](/Solutions/%5B08%5D_2.py) / [C++ 답안](/Solutions/%5B08%5D_2.cpp) / [Java 답안](/Solutions/%5B08%5D_2.java))
+* [베스트셀러](https://www.acmicpc.net/problem/1302): ([Python 답안](/Solutions/%5B08%5D_3.py) / [C++ 답안](/Solutions/%5B08%5D_3.cpp) / [Java 답안](/Solutions/%5B08%5D_3.java))
+* [트로피 진열](https://www.acmicpc.net/problem/1668): ([Python 답안](/Solutions/%5B08%5D_4.py) / [C++ 답안](/Solutions/%5B08%5D_4.cpp) / [Java 답안](/Solutions/%5B08%5D_4.java))
+* [성 지키기](https://www.acmicpc.net/problem/1236): ([Python 답안](/Solutions/%5B08%5D_5.py) / [C++ 답안](/Solutions/%5B08%5D_5.cpp) / [Java 답안](/Solutions/%5B08%5D_5.java))
 
 #### [09] [핵심 유형 문제풀이](/Notes/%5B09%5D%20CHAPTER%2006.%20기본%20탐색%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [공유기 설치](https://www.acmicpc.net/problem/2110): ([Python 답안](/Solutions/%5B09%5D_1.py))
+* [공유기 설치](https://www.acmicpc.net/problem/2110): ([Python 답안](/Solutions/%5B09%5D_1.py) / [C++ 답안](/Solutions/%5B09%5D_1.cpp) / [Java 답안](/Solutions/%5B09%5D_1.java))
 * [중량제한](https://www.acmicpc.net/problem/1939): ([Python 답안](/Solutions/%5B09%5D_2.py))
 
 ### Chapter 07. 고급 탐색 알고리즘
