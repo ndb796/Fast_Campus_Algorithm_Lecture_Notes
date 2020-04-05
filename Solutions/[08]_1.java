@@ -7,7 +7,6 @@ public class Main {
 		
 		String document = sc.nextLine();
 		String word = sc.nextLine();
-		
 		int idx = 0, result = 0;
 		
 		while (document.length() - idx >= word.length()) {
