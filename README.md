@@ -126,15 +126,15 @@
 > 그리디(Greedy) 알고리즘의 원리를 활용한 문제풀이
 
 #### [17] [기초 문제풀이](/Notes/%5B17%5D%20CHAPTER%2011.%20탐욕%20알고리즘%20-%20기초%20문제풀이.pdf)
-* [거스름돈](https://www.acmicpc.net/problem/5585): ([Python 답안](/Solutions/%5B17%5D_1.py))
-* [뒤집기](https://www.acmicpc.net/problem/1439): ([Python 답안](/Solutions/%5B17%5D_2.py))
-* [등수 매기기](https://www.acmicpc.net/problem/2012): ([Python 답안](/Solutions/%5B17%5D_3.py))
-* [배](https://www.acmicpc.net/problem/1092): ([Python 답안](/Solutions/%5B17%5D_4.py))
+* [거스름돈](https://www.acmicpc.net/problem/5585): ([Python 답안](/Solutions/%5B17%5D_1.py) / [C++ 답안](/Solutions/%5B17%5D_1.cpp) / [Java 답안](/Solutions/%5B17%5D_1.java))
+* [뒤집기](https://www.acmicpc.net/problem/1439): ([Python 답안](/Solutions/%5B17%5D_2.py) / [C++ 답안](/Solutions/%5B17%5D_2.cpp) / [Java 답안](/Solutions/%5B17%5D_2.java))
+* [등수 매기기](https://www.acmicpc.net/problem/2012): ([Python 답안](/Solutions/%5B17%5D_3.py) / [C++ 답안](/Solutions/%5B17%5D_3.cpp) / [Java 답안](/Solutions/%5B17%5D_3.java))
+* [배](https://www.acmicpc.net/problem/1092): ([Python 답안](/Solutions/%5B17%5D_4.py) / [C++ 답안](/Solutions/%5B17%5D_4.cpp) / [Java 답안](/Solutions/%5B17%5D_4.java))
 
 #### [18] [핵심 유형 문제풀이](/Notes/%5B18%5D%20CHAPTER%2011.%20탐욕%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [센서](https://www.acmicpc.net/problem/2212): ([Python 답안](/Solutions/%5B18%5D_1.py))
-* [도서관](https://www.acmicpc.net/problem/1461): ([Python 답안](/Solutions/%5B18%5D_2.py))
-* [컵라면](https://www.acmicpc.net/problem/1781): ([Python 답안](/Solutions/%5B18%5D_3.py))
+* [센서](https://www.acmicpc.net/problem/2212): ([Python 답안](/Solutions/%5B18%5D_1.py) / [C++ 답안](/Solutions/%5B18%5D_1.cpp) / [Java 답안](/Solutions/%5B18%5D_1.java))
+* [도서관](https://www.acmicpc.net/problem/1461): ([Python 답안](/Solutions/%5B18%5D_2.py) / [C++ 답안](/Solutions/%5B18%5D_2.cpp) / [Java 답안](/Solutions/%5B18%5D_2.java))
+* [컵라면](https://www.acmicpc.net/problem/1781): ([Python 답안](/Solutions/%5B18%5D_3.py) / [C++ 답안](/Solutions/%5B18%5D_3.cpp) / [Java 답안](/Solutions/%5B18%5D_3.java))
 
 ### Chapter 12. 백 트래킹
 
