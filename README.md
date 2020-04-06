@@ -90,13 +90,13 @@
 > 잘 알려진 동적 프로그래밍 개념 (타일링, Knapsack, LCS, LIS 등)을 활용한 문제풀이
 
 #### [12] [기초 문제풀이](/Notes/%5B12%5D%20CHAPTER%2008.%20동적%20프로그래밍%20-%20기초%20문제풀이.pdf)
-* [01타일](https://www.acmicpc.net/problem/1904): ([Python 답안](/Solutions/%5B12%5D_1.py))
-* [평범한 배낭](https://www.acmicpc.net/problem/12865): ([Python 답안](/Solutions/%5B12%5D_2.py))
-* [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053): ([Python 답안](/Solutions/%5B12%5D_3.py))
+* [01타일](https://www.acmicpc.net/problem/1904): ([Python 답안](/Solutions/%5B12%5D_1.py) / [C++ 답안](/Solutions/%5B12%5D_1.cpp) / [Java 답안](/Solutions/%5B12%5D_1.java))
+* [평범한 배낭](https://www.acmicpc.net/problem/12865): ([Python 답안](/Solutions/%5B12%5D_2.py) / [C++ 답안](/Solutions/%5B12%5D_2.cpp) / [Java 답안](/Solutions/%5B12%5D_2.java))
+* [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053): ([Python 답안](/Solutions/%5B12%5D_3.py) / [C++ 답안](/Solutions/%5B12%5D_3.cpp) / [Java 답안](/Solutions/%5B12%5D_3.java))
 
 #### [13] [핵심 유형 문제풀이](/Notes/%5B13%5D%20CHAPTER%2008.%20동적%20프로그래밍%20-%20핵심%20유형%20문제풀이.pdf)
-* [LCS](https://www.acmicpc.net/problem/9251): ([Python 답안](/Solutions/%5B13%5D_1.py))
-* [기타리스트](https://www.acmicpc.net/problem/1495): ([Python 답안](/Solutions/%5B13%5D_2.py))
+* [LCS](https://www.acmicpc.net/problem/9251): ([Python 답안](/Solutions/%5B13%5D_1.py) / [C++ 답안](/Solutions/%5B13%5D_1.cpp) / [Java 답안](/Solutions/%5B13%5D_1.java))
+* [기타리스트](https://www.acmicpc.net/problem/1495): ([Python 답안](/Solutions/%5B13%5D_2.py) / [C++ 답안](/Solutions/%5B13%5D_2.cpp) / [Java 답안](/Solutions/%5B13%5D_2.java))
 * [가장 높은 탑 쌓기](https://www.acmicpc.net/problem/2655): ([Python 답안](/Solutions/%5B13%5D_3.py))
 
 ### Chapter 09. 그래프 기본 탐색 알고리즘
