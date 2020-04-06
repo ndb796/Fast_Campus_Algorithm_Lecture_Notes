@@ -104,8 +104,8 @@
 > DFS와 BFS를 활용한 문제풀이
 
 #### [14] [기초 문제풀이](/Notes/%5B14%5D%20CHAPTER%2009.%20그래프%20기본%20탐색%20알고리즘%20-%20기초%20문제풀이.pdf)
-* [DFS와 BFS](https://www.acmicpc.net/problem/1260): ([Python 답안](/Solutions/%5B14%5D_1.py))
-* [숨바꼭질](https://www.acmicpc.net/problem/1697): ([Python 답안](/Solutions/%5B14%5D_2.py))
+* [DFS와 BFS](https://www.acmicpc.net/problem/1260): ([Python 답안](/Solutions/%5B14%5D_1.py) / [C++ 답안](/Solutions/%5B14%5D_1.cpp) / [Java 답안](/Solutions/%5B14%5D_1.java))
+* [숨바꼭질](https://www.acmicpc.net/problem/1697): ([Python 답안](/Solutions/%5B14%5D_2.py) / [C++ 답안](/Solutions/%5B14%5D_2.cpp) / [Java 답안](/Solutions/%5B14%5D_2.java))
 
 #### [15] [핵심 유형 문제풀이](/Notes/%5B15%5D%20CHAPTER%2009.%20그래프%20기본%20탐색%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
 * [바이러스](https://www.acmicpc.net/problem/2606): ([Python 답안](/Solutions/%5B15%5D_1.py))
