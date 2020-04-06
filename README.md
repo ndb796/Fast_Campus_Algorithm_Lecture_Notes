@@ -81,8 +81,8 @@
 * [트리의 높이와 너비](https://www.acmicpc.net/problem/2250): ([Python 답안](/Solutions/%5B10%5D_2.py))
 
 #### [11] [핵심 유형 문제풀이](/Notes/%5B11%5D%20CHAPTER%2007.%20고급%20탐색%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [최소 힙](https://www.acmicpc.net/problem/1927): ([Python 답안](/Solutions/%5B11%5D_1.py))
-* [카드 정렬하기](https://www.acmicpc.net/problem/1715): ([Python 답안](/Solutions/%5B11%5D_2.py))
+* [최소 힙](https://www.acmicpc.net/problem/1927): ([Python 답안](/Solutions/%5B11%5D_1.py) / [C++ 답안](/Solutions/%5B11%5D_1.cpp) / [Java 답안](/Solutions/%5B11%5D_1.java))
+* [카드 정렬하기](https://www.acmicpc.net/problem/1715): ([Python 답안](/Solutions/%5B11%5D_2.py) / [C++ 답안](/Solutions/%5B11%5D_2.cpp) / [Java 답안](/Solutions/%5B11%5D_2.java))
 * [문제집](https://www.acmicpc.net/problem/1766): ([Python 답안](/Solutions/%5B11%5D_3.py))
 
 ### Chapter 08. 동적 프로그래밍
