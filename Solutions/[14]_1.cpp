@@ -49,6 +49,6 @@ int main() {
 	}
 	dfs(start);
 	cout << '\n';
-	fill(d, d + 1001, false);
+	memset(d, false, sizeof(d));
 	bfs(start);
 }
