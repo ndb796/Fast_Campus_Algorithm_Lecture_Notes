@@ -117,9 +117,9 @@
 > 다익스트라 최단 경로 알고리즘, 최소 신장 트리 알고리즘을 활용한 문제풀이
 
 #### [16] [핵심 유형 문제풀이](/Notes/%5B16%5D%20CHAPTER%2010.%20그래프%20고급%20탐색%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [해킹](https://www.acmicpc.net/problem/10282): ([Python 답안](/Solutions/%5B16%5D_1.py))
-* [거의 최단 경로](https://www.acmicpc.net/problem/5719): ([Python 답안](/Solutions/%5B16%5D_2.py))
-* [우주신과의 교감](https://www.acmicpc.net/problem/1774): ([Python 답안](/Solutions/%5B16%5D_3.py))
+* [해킹](https://www.acmicpc.net/problem/10282): ([Python 답안](/Solutions/%5B16%5D_1.py) / [C++ 답안](/Solutions/%5B16%5D_1.cpp))
+* [거의 최단 경로](https://www.acmicpc.net/problem/5719): ([Python 답안](/Solutions/%5B16%5D_2.py) / [C++ 답안](/Solutions/%5B16%5D_2.cpp))
+* [우주신과의 교감](https://www.acmicpc.net/problem/1774): ([Python 답안](/Solutions/%5B16%5D_3.py) / [C++ 답안](/Solutions/%5B16%5D_3.cpp))
 
 ### Chapter 11. 탐욕 알고리즘
 
