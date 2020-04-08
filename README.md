@@ -141,6 +141,6 @@
 > DFS 혹은 조합(Combinations)을 활용한 문제풀이
 
 #### [19] [핵심 유형 문제풀이](/Notes/%5B19%5D%20CHAPTER%2012.%20백트래킹%20-%20핵심%20유형%20문제풀이.pdf)
-* [N-Queen](https://www.acmicpc.net/problem/9663): ([Python 답안](/Solutions/%5B19%5D_1.py))
+* [N-Queen](https://www.acmicpc.net/problem/9663): ([Python 답안](/Solutions/%5B19%5D_1.py) / [C++ 답안](/Solutions/%5B19%5D_1.cpp))
 * [알파벳](https://www.acmicpc.net/problem/1987): ([Python 답안](/Solutions/%5B19%5D_2.py))
 * [암호 만들기](https://www.acmicpc.net/problem/1759): ([Python 답안](/Solutions/%5B19%5D_3.py))
