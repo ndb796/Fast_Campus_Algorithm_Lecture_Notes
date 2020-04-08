@@ -108,9 +108,9 @@
 * [숨바꼭질](https://www.acmicpc.net/problem/1697): ([Python 답안](/Solutions/%5B14%5D_2.py) / [C++ 답안](/Solutions/%5B14%5D_2.cpp) / [Java 답안](/Solutions/%5B14%5D_2.java))
 
 #### [15] [핵심 유형 문제풀이](/Notes/%5B15%5D%20CHAPTER%2009.%20그래프%20기본%20탐색%20알고리즘%20-%20핵심%20유형%20문제풀이.pdf)
-* [바이러스](https://www.acmicpc.net/problem/2606): ([Python 답안](/Solutions/%5B15%5D_1.py))
-* [유기농 배추](https://www.acmicpc.net/problem/1012): ([Python 답안](/Solutions/%5B15%5D_2.py))
-* [효율적인 해킹](https://www.acmicpc.net/problem/1325): ([Python 답안](/Solutions/%5B15%5D_3.py))
+* [바이러스](https://www.acmicpc.net/problem/2606): ([Python 답안](/Solutions/%5B15%5D_1.py) / [C++ 답안](/Solutions/%5B15%5D_1.cpp) / [Java 답안](/Solutions/%5B15%5D_1.java))
+* [유기농 배추](https://www.acmicpc.net/problem/1012): ([Python 답안](/Solutions/%5B15%5D_2.py) / [C++ 답안](/Solutions/%5B15%5D_2.cpp) / [Java 답안](/Solutions/%5B15%5D_2.java))
+* [효율적인 해킹](https://www.acmicpc.net/problem/1325): ([Python 답안](/Solutions/%5B15%5D_3.py) / [C++ 답안](/Solutions/%5B15%5D_3.cpp) / [Java 답안](/Solutions/%5B15%5D_3.java))
 
 ### Chapter 10. 그래프 고급 탐색 알고리즘
 
