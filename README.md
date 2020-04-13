@@ -146,3 +146,69 @@
 * [N-Queen](https://www.acmicpc.net/problem/9663): ([Python 답안](/Solutions/%5B19%5D_1.py) / [C++ 답안](/Solutions/%5B19%5D_1.cpp))
 * [알파벳](https://www.acmicpc.net/problem/1987): ([Python 답안](/Solutions/%5B19%5D_2.py))
 * [암호 만들기](https://www.acmicpc.net/problem/1759): ([Python 답안](/Solutions/%5B19%5D_3.py))
+
+## 코딩 테스트 실전 모의고사 문제집
+
+* 본 문제집은 최신 코딩 테스트 출제 경향을 고려해 나동빈 강사가 자체 제작 및 번역하여 구성한 문제집입니다.
+* 본 문제집은 인터넷 검색이 불가능한 상황에서 제한 시간 안에 Python 3.7 언어를 이용하여 풀어주세요.
+* 모든 문제들은 검수 과정을 거쳐 백준 온라인 저지(BOJ)에 업로드 되어있습니다.
+
+### 코딩 테스트 모의고사 A형
+
+* [A형 문제지]()
+
+난이도|문제 풀이시간|문제 개수|예상 합격 커트라인|
+|------|---|---|---|
+|중하|3시간|3문제|3문제|
+
+1. [안테나](https://www.acmicpc.net/problem/18310)
+2. [큰 수 구성하기](https://www.acmicpc.net/problem/18511)
+3. [현명한 나이트](https://www.acmicpc.net/problem/18404)
+
+### 코딩 테스트 모의고사 B형
+
+* [B형 문제지]()
+
+난이도|문제 풀이시간|문제 개수|예상 합격 커트라인|
+|------|---|---|---|
+|중|3시간|3문제|2~3문제|
+
+1. [왕복](https://www.acmicpc.net/problem/18311)
+2. [큰 수 구성하기](https://www.acmicpc.net/problem/18353)
+3. [현명한 나이트](https://www.acmicpc.net/problem/18405)
+
+### 코딩 테스트 모의고사 C형
+
+* [C형 문제지]()
+
+난이도|문제 풀이시간|문제 개수|예상 합격 커트라인|
+|------|---|---|---|
+|상|3시간|3문제|2문제|
+
+1. [시각](https://www.acmicpc.net/problem/18312)
+2. [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)
+3. [감시 피하기](https://www.acmicpc.net/problem/18428)
+
+### 코딩 테스트 모의고사 D형
+
+* [D형 문제지]()
+
+난이도|문제 풀이시간|문제 개수|예상 합격 커트라인|
+|------|---|---|---|
+|중상|3시간|3문제|2~3문제|
+
+1. [럭키 스트레이트](https://www.acmicpc.net/problem/18406)
+2. [근손실](https://www.acmicpc.net/problem/18429)
+3. [무기 공학](https://www.acmicpc.net/problem/18430)
+
+### 코딩 테스트 모의고사 E형
+
+* [E형 문제지]()
+
+난이도|문제 풀이시간|문제 개수|예상 합격 커트라인|
+|------|---|---|---|
+|중|3시간|3문제|2~3문제|
+
+1. [점프 점프](https://www.acmicpc.net/problem/18512)
+2. [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
+3. [샘터](https://www.acmicpc.net/problem/18513)
