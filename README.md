@@ -147,7 +147,7 @@
 * [알파벳](https://www.acmicpc.net/problem/1987): ([Python 답안](/Solutions/%5B19%5D_2.py))
 * [암호 만들기](https://www.acmicpc.net/problem/1759): ([Python 답안](/Solutions/%5B19%5D_3.py))
 
-## 코딩 테스트 실전 모의고사 문제집
+## 코딩 테스트 실전 모의고사 문제집 (Mock Exams)
 
 * 본 문제집은 최신 코딩 테스트 출제 경향을 고려해 나동빈 강사가 자체 제작 및 번역하여 구성한 문제집입니다.
 * 본 문제집은 인터넷 검색이 불가능한 상황에서 제한 시간 안에 Python 3.7 언어를 이용하여 풀어주세요.
