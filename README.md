@@ -161,9 +161,9 @@
 |------|---|---|---|
 |중하|3시간|3문제|3문제|
 
-1. [안테나](https://www.acmicpc.net/problem/18310)
-2. [큰 수 구성하기](https://www.acmicpc.net/problem/18511)
-3. [현명한 나이트](https://www.acmicpc.net/problem/18404)
+1. [안테나](https://www.acmicpc.net/problem/18310): ([Python 답안](/Exams/solutions/A_1.py))
+2. [큰 수 구성하기](https://www.acmicpc.net/problem/18511): ([Python 답안](/Exams/solutions/A_2.py))
+3. [현명한 나이트](https://www.acmicpc.net/problem/18404): ([Python 답안](/Exams/solutions/A_3.py))
 
 ### 코딩 테스트 모의고사 B형
 
@@ -173,9 +173,9 @@
 |------|---|---|---|
 |중|3시간|3문제|2~3문제|
 
-1. [왕복](https://www.acmicpc.net/problem/18311)
-2. [큰 수 구성하기](https://www.acmicpc.net/problem/18353)
-3. [현명한 나이트](https://www.acmicpc.net/problem/18405)
+1. [왕복](https://www.acmicpc.net/problem/18311): ([Python 답안](/Exams/solutions/B_1.py))
+2. [큰 수 구성하기](https://www.acmicpc.net/problem/18353): ([Python 답안](/Exams/solutions/B_2.py))
+3. [현명한 나이트](https://www.acmicpc.net/problem/18405): ([Python 답안](/Exams/solutions/B_3.py))
 
 ### 코딩 테스트 모의고사 C형
 
@@ -185,9 +185,9 @@
 |------|---|---|---|
 |상|3시간|3문제|2문제|
 
-1. [시각](https://www.acmicpc.net/problem/18312)
-2. [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)
-3. [감시 피하기](https://www.acmicpc.net/problem/18428)
+1. [시각](https://www.acmicpc.net/problem/18312): ([Python 답안](/Exams/solutions/C_1.py))
+2. [함께 블록 쌓기](https://www.acmicpc.net/problem/18427): ([Python 답안](/Exams/solutions/C_2.py))
+3. [감시 피하기](https://www.acmicpc.net/problem/18428): ([Python 답안](/Exams/solutions/C_3.py))
 
 ### 코딩 테스트 모의고사 D형
 
@@ -197,9 +197,9 @@
 |------|---|---|---|
 |중상|3시간|3문제|2~3문제|
 
-1. [럭키 스트레이트](https://www.acmicpc.net/problem/18406)
-2. [근손실](https://www.acmicpc.net/problem/18429)
-3. [무기 공학](https://www.acmicpc.net/problem/18430)
+1. [럭키 스트레이트](https://www.acmicpc.net/problem/18406): ([Python 답안](/Exams/solutions/D_1.py))
+2. [근손실](https://www.acmicpc.net/problem/18429): ([Python 답안](/Exams/solutions/D_2.py))
+3. [무기 공학](https://www.acmicpc.net/problem/18430): ([Python 답안](/Exams/solutions/D_3.py))
 
 ### 코딩 테스트 모의고사 E형
 
@@ -209,6 +209,6 @@
 |------|---|---|---|
 |중|3시간|3문제|2~3문제|
 
-1. [점프 점프](https://www.acmicpc.net/problem/18512)
-2. [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
-3. [샘터](https://www.acmicpc.net/problem/18513)
+1. [점프 점프](https://www.acmicpc.net/problem/18512): ([Python 답안](/Exams/solutions/E_1.py))
+2. [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352): ([Python 답안](/Exams/solutions/E_2.py))
+3. [샘터](https://www.acmicpc.net/problem/18513): ([Python 답안](/Exams/solutions/E_3.py))
