@@ -175,7 +175,7 @@
 
 1. [왕복](https://www.acmicpc.net/problem/18311): ([Python 답안](/Exams/solutions/B_1.py))
 2. [큰 수 구성하기](https://www.acmicpc.net/problem/18353): ([Python 답안](/Exams/solutions/B_2.py))
-3. [현명한 나이트](https://www.acmicpc.net/problem/18405): ([Python 답안](/Exams/solutions/B_3.py))
+3. [경쟁적 전염](https://www.acmicpc.net/problem/18405): ([Python 답안](/Exams/solutions/B_3.py))
 
 ### 코딩 테스트 모의고사 C형
 
